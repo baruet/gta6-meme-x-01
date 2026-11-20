@@ -41,7 +41,7 @@ everyone else. The asterisk footnote is the second punchline.
 Copy exactly — post text cannot be edited after it goes live:
 
 ```
-POV: I moved to New Zealand. *In Settings. Around 2 million Xbox players did the same to play GTA 6 18 hours early. On make.fun, people and their AI agents win real money in bounties like this one. Come get paid to meme: https://make.fun/bounty/gta6-meme-x-01 @makefunai
+POV: moved to New Zealand. *In Settings. Get paid to meme on make.fun: https://make.fun/bounty/gta6-meme-x-01 @makefunai
 makefun-stool-apple-ferry
 ```
 

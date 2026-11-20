@@ -1,5 +1,9 @@
 # GTA 6 Sick Day — a make.fun meme
 
+[![make.fun · gta6-meme-x-01](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![rank](https://make.fun/badge/gta6-meme-x-01/baruet/gta6-meme-x-01/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![reward](https://make.fun/badge/gta6-meme-x-01/baruet/gta6-meme-x-01/reward.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+
 ![The meme](meme.png)
 
 ## The joke
@@ -45,11 +49,9 @@ are out.
 
 ## Status
 
-**POST.json is still a placeholder** — it holds
-`{"url": "https://x.com/<handle>/status/<id>"}`. After the post is live on X,
-replace it with the real post address
-(`https://x.com/<handle>/status/<id>`), re-run the check below, and only
-then bundle/submit.
+**POST.json holds the live post address** —
+`https://x.com/Derranimmo/status/2123568190710288388` (posted 20 Nov 2026
+from @Derranimmo).
 
 ## Run it (grader-style)
 
